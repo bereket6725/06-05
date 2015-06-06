@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
         char a = 'a';
         char b = 'b';
         int d = 25;
+        int e = 21;
         BOOL answer = 7 > 3;
         NSLog (@"%d", answer);
         

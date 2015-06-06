@@ -17,8 +17,10 @@ int main(int argc, const char * argv[]) {
         for (int i =0; 1 < maxNumber: 1++) {
             if (i % 3 == 0 || i % 5 = 0) {
                 sum = sum+1:
+        
+                NSLog(@"The sum of all the multiples of 3 and 5 is %d", sum);
             }
-            
+        wh
             }
         }
     }

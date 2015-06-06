@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8780D056-DE95-4E5F-93AA-388917AD6DAC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>12daysOfChristmas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29FB95E1D4995AD5B3823B239312CD48184BB0B4</key>
+		<string>https://github.com/bereket6725/06-05.git</string>
+		<key>E6E774C9F8D46489A9CA9C6B595B54AD5AEEA867</key>
+		<string>https://github.com/bereket6725/06-04.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>12daysOfChristmas/12daysOfChristmas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29FB95E1D4995AD5B3823B239312CD48184BB0B4</key>
+		<string>../../..</string>
+		<key>E6E774C9F8D46489A9CA9C6B595B54AD5AEEA867</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bereket6725/06-05.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29FB95E1D4995AD5B3823B239312CD48184BB0B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6E774C9F8D46489A9CA9C6B595B54AD5AEEA867</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29FB95E1D4995AD5B3823B239312CD48184BB0B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>06-05</string>
+		</dict>
+	</array>
+</dict>
+</plist>
